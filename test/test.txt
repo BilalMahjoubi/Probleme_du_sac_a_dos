@@ -1,0 +1,4 @@
+Telephone ; 2 ; 4
+Tablette ; 1 ; 8
+Banane ; 2 ; 3
+Chargeur ; 1 ; 7
